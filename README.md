@@ -65,6 +65,8 @@ For samples classified as ransomware:
 
 ---
 
+📢 **Submitted to IEEE Conference**: This work was formally submitted to an IEEE-affiliated conference for peer review and presentation.
+
 ## ⚙️ Setup & Usage
 
 1. Clone the repo  
